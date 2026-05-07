@@ -1,0 +1,5 @@
+# Co-authors map for jekyll/scholar bibtex rendering. See al-folio docs.
+# TODO: add entries when you have publications listing co-authors, e.g.
+# "smith":
+#   - firstname: ["Jane", "J."]
+#     url: https://example.com/jane-smith

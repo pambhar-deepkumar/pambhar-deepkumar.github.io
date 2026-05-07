@@ -1,0 +1,26 @@
+# TODO: Fill in CV data. See al-folio docs for the full schema.
+# Until you fill in real values, the /cv page renders from this file.
+cv:
+  name: Deepkumar Pambhar
+  label: # TODO: e.g. "Software Engineer"
+  email: # TODO: contact email
+  location: # TODO: city, country
+  image: ""
+  summary: # TODO: one-paragraph summary
+
+  social_networks: []
+    # - network: GitHub
+    #   username: pambhar-deepkumar
+
+  address:
+    street: # TODO
+    city: # TODO
+    region: # TODO
+    postalCode: # TODO
+    countryCode: # TODO
+
+  sections:
+    Education: []
+    Experience: []
+    Projects: []
+    Skills: []

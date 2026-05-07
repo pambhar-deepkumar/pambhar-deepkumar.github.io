@@ -1,0 +1,9 @@
+# Used by the /repositories page (renders pinned GitHub users + repos).
+# TODO: replace with your own users/repos.
+github_users:
+  - pambhar-deepkumar
+
+repo_description_lines_max: 2
+
+github_repos: []
+  # - pambhar-deepkumar/some-repo

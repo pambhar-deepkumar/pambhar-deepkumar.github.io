@@ -1,0 +1,5 @@
+# Optional venue color/url overrides for publications page.
+# TODO: add entries as needed, e.g.
+# "Nature":
+#   url: https://www.nature.com/
+#   color: "#000000"
