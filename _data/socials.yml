@@ -1,14 +1,12 @@
 # Social media links and usernames. The jekyll-socials plugin renders icons in
 # the order defined here. See https://github.com/george-gca/jekyll-socials.
-# TODO: fill in the values you want to display.
+# TODO: uncomment / fill in the entries you want to display.
 
-cv_pdf: # TODO: path to your CV PDF (e.g. /assets/pdf/cv.pdf) or leave empty
-email: # TODO: your email address
 rss_icon: true # comment this line to hide the RSS icon
 
-# Examples (uncomment / fill in as needed):
+# cv_pdf: /assets/pdf/cv.pdf
+# email: you@example.com
 # github_username: pambhar-deepkumar
 # linkedin_username:
 # scholar_userid:
-# inspirehep_id:
 # orcid_id:

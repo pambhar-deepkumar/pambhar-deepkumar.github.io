@@ -18,7 +18,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # TODO: pick an emoji or image to use as the favicon
 
 url: https://pambhar-deepkumar.github.io # the base hostname & protocol for your site
-baseurl: # personal site at <user>.github.io — leave baseurl empty
+baseurl: "" # personal site at <user>.github.io — leave as empty string
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
