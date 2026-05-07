@@ -6,18 +6,12 @@ cv:
   email: # TODO: contact email
   location: # TODO: city, country
   image: ""
-  summary: # TODO: one-paragraph summary
+  # NOTE: cv.summary and cv.address removed — RenderCV schema rejects them.
+  # If you want a summary, use a "WelcomeToMyCV" / "Summary" section instead.
 
   social_networks: []
     # - network: GitHub
     #   username: pambhar-deepkumar
-
-  address:
-    street: # TODO
-    city: # TODO
-    region: # TODO
-    postalCode: # TODO
-    countryCode: # TODO
 
   sections:
     Education: []
